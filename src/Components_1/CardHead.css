@@ -1,0 +1,19 @@
+.head{display: flex;
+flex-direction: row;
+align-items: center;}
+.number{
+    position: absolute;
+    left: 4%;
+    top: -19%;
+    right: auto;
+    bottom: auto;
+    font-family: Didot, serif;
+    font-size: 80px;
+    line-height: 110%;
+}
+.image{
+    position: absolute;
+    left: 122px;
+    top: -43px;
+    height: 80px;
+}

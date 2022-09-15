@@ -1,0 +1,11 @@
+.comp2 {
+    position: relative;
+    display: flex;
+    width: 429px;
+    height: 200px;
+    margin-left: 5%;
+    margin-top: 5%;
+    padding: 20px 15px;
+    align-items: flex-end;
+    background-color: #2b2b2b;
+}

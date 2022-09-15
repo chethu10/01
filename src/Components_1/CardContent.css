@@ -1,0 +1,12 @@
+.hedding{margin-bottom: 15px;
+    font-family: "Ld mono", sans-serif;
+    font-size: 32px;
+    line-height: 40px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.content{
+    color: #909090;
+    font-size: 18px;
+    line-height: 26px;
+}
